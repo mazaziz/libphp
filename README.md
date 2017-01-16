@@ -1,5 +1,5 @@
 # *libphp*
-*A collection of procedural PHP libraries.*
+*A collection of procedural php libraries.*
 
 ## libhttp
 HTTP library for routing, parameter handling, response writing, etc...
